@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppSqlLite</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="empty"></string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+</resources>
+
+
